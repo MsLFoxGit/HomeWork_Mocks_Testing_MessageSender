@@ -1,0 +1,5 @@
+# sender,         iP,   country,  text,            countryById
+sender1,   172.0.32.11,  RUSSIA,  Добро пожаловать, RUSSIA,
+sender2,  96.123.12.19,  USA,     Welcome,          USA,
+sender3,          172.,  RUSSIA,  Добро пожаловать, RUSSIA,
+sender4,           96.,  USA,     Welcome,          USA,
